@@ -1,0 +1,8 @@
+RPi.GPIO
+Adafruit_DHT
+tensorflow
+opencv-python
+matplotlib
+pandas
+numpy
+requests
