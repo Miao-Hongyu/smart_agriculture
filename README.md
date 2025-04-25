@@ -10,6 +10,7 @@
   pip install -r requirements.txt
 
 ## 项目结构 
+ ```bash
  smart_agriculture/
   ├── config.py             # 配置文件：设置阈值、设备引脚等
   ├── sensors.py            # 传感器模块：读取温湿度、土壤湿度数据
@@ -24,6 +25,7 @@
   ├── main.py               # 主程序：整合所有模块
   ├── requirements.txt      # Python 依赖库
   └── README.md             # 项目使用说明
+ ```
 
 ## 运行步骤
 ### 训练并保存 TensorFlow 模型
